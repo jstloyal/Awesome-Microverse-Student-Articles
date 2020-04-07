@@ -59,6 +59,7 @@ by [Oluwadamilare Olusakin](https://github.com/oluwadamilareolusakin)
 - [5 VSCode Quick Tips to Boost Your HTML Writing](https://hackernoon.com/5-vscode-quick-tips-to-boost-your-html-writing-uw943yx6) by [Felipe Rosa](https://github.com/flpfar)
 - [Understanding (And Making Your Life Easier) With Bootstrap](https://hackernoon.com/understanding-and-making-your-life-easier-with-bootstrap-nnr2gpb) by [Melissa Castorena](https://github.com/mcastorena0316)
 - [Indent-Rainbow tool for making indentation in your code HTML more readable](https://link.medium.com/WjdqOSkUm5) by [Wilfried Canirinka](https://github.com/WCanirinka)
+- [Why I anticipate code reviews](https://medium.com/@jstloyalty/why-i-anticipate-code-reviews-5b976591cb33) by [jstloyal](https://twitter.com/jstloyalty)
 
 ## Ruby & Ruby on Rails
 
